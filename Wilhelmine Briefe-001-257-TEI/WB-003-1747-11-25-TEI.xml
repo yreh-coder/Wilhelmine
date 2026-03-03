@@ -1,2 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Friedrich II., König von Preußen an Wilhelmine von Brandenburg-Bayreuth, 1747-11-25, Potsdam</title><author><persName>Friedrich II., König von Preußen</persName></author><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp><name>Rashid Sascha Pegah</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/edt.html">Editor</resp><name>Günter Berger</name><name>Yvonne Rehhahn</name><name>Franziska Windt</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/dtm.html">Data Manager</resp><name>Fabian Cremer</name><name>Marcel Riedel</name><name>Tobias Tenhaef</name></respStmt><funder>Research Center Sanssouci (RECS)</funder></titleStmt><editionStmt><edition>Digital critical commented edition</edition><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/edt.html">Editor</resp><name>Rashid Sascha Pegah</name><name>Yvonne Rehhahn</name><name>Franziska Windt</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/mrk.html">Markup Editor</resp><name>Yvonne Rehhahn</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/trl.html">Translator</resp><name>Günter Berger</name><name>Cornelia Klettke</name><name>Rashid Sascha Pegah</name><name>Franziska Windt</name><name>Cordula Wöbbeking</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/dtm.html">Data Manager</resp><name>Fabian Cremer</name><name>Marcel Riedel</name><name>Tobias Tenhaef</name></respStmt><funder>Research Center Sanssouci (RECS)</funder></editionStmt><publicationStmt><publisher><orgName role="host">perspectivia.net</orgName><email>redaktion@perspectivia.net</email><address><addrLine>Max Weber Stiftung – Deutsche Geisteswissenschaftliche Institute im
-                        Ausland, Rheinallee 6, D-53173 Bonn</addrLine></address></publisher><availability><licence target="https://creativecommons.org/licenses/by/4.0/"><p>CC-BY 4.0</p></licence></availability><idno type="URLWeb">https://quellen.perspectivia.net/de/wilhelmine/3_src</idno><idno type="URLXML">http://durl.maxweberstiftung.de/quellen/wb/tei/WB-003-1747-11-25-TEI.xml</idno></publicationStmt><sourceDesc><bibl>GStA PK, BPH, Rep. 47 König Friedrich II., Nr. 305, Bd. 6, fol. 19r-19v.</bibl></sourceDesc></fileDesc><endcodingDesc><editorialDecl><p>The letters were transcribed in their original spelling. In order to improve the readability of the texts, editorial additions were made. In some cases, a normalized orthography was inserted and abbreviations resolved. TEi Tags used: addition, correction, deletion, expansion, gap, lb, note, pb, sup, supplied.</p></editorialDecl></endcodingDesc><profileDesc><langUsage><language ident="fra"/></langUsage><correspDesc ref="https://quellen.perspectivia.net/de/wilhelmine/3_src" source="#u67fba5a-e081-4c44-972b-9a123fb8e085"><correspAction type="sent"><persName>Friedrich II., König von Preußen</persName><settlement>Potsdam</settlement><date when="1747-11-25">1747-11-25</date></correspAction><correspAction type="received"><persName>Wilhelmine von Brandenburg-Bayreuth</persName></correspAction></correspDesc></profileDesc></teiHeader><text><body><p>à Potzdam ce 25 <sup>de </sup>Nov<expan>[embre]</expan>: 1747</p><p>Ma tres chere Soeur.<lb/><gap>[… ]</gap>La table que Vous avéz la bonté de m´envoyér n´est point arivée. Je Vous en aurois surement fait mes remersimens,<corr>[.]</corr> Les Mauvais chemeins La retarderont Sans doute;<corr>[.]</corr> Chéz nous on resusite,<corr>[.]</corr> Voilà Mad<expan>[ame]</expan>: de Monbail qui revient d´une fievre Maligne par la force de son temperament Sans avoir pris de remedes,<corr>[.]</corr> Sa Virginité arivera toute Moisie au Paradis. Je Vous fais bien des remersiments de ce que Vous avéz eu la bonté de m’envoyér le plan d’Herculanum<corr>[.]</corr> je Vois bien que Notre Jmagination nous porte toujours au dela de la Verité, je m’etois figuré cette Ville bien plus grande et plus belle, et je Crois que les tablaux qu’on y à trouvé ne sont pas Grand Chose. nous Vivons toujours dans le passé ou dans l’avenir et nous n’avons jamais L’esprit de jouïr du present<corr>[.]</corr> Le Nom Des <del>[Les ]</del>Romains nous etourdit et Nous en Jmpose, nous nous persuadons que La race future Sera plus heureux que La presente<corr>[.]</corr> j’aime mieux Le bonsens naturel et bourgois qui croit que Monsieur Le Curé De Sa paroesse est plus eloquent que Ciceron<corr>[,]</corr> que Sa femme a plus d’atrais que la belle Helene, que Sa Vile est plus belle que paris, et que Les Legumes que lui aprete Sa <pb/>Cuisiniere ont un Gout plus fin que toute les friandisses recherchées De Martiales, et du Duc de Nevers.<lb/>Si Vous me trouvé trop Seryeux dans cette Lettre je conte d’etre plus Gai dans un autre, le peti Tomasin Va arivér et il montera tout Les esprits Sur le ton Comique <lb/>je suis avec bien de tendresse et d’estime<corr>[,]</corr></p><p>Ma tres chere Soeur<corr>[,]</corr><lb/>Votre tres fidelle frere et serviteur</p><p>Frederic</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><teiHeader><fileDesc><titleStmt><title>Friedrich II., König von Preußen an Wilhelmine von Brandenburg-Bayreuth, 1747-11-25, Potsdam</title><author><persName>Friedrich II., König von Preußen</persName></author><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp><name>Rashid Sascha Pegah</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/edt.html">Editor</resp><name>Günter Berger</name><name>Yvonne Rehhahn</name><name>Franziska Windt</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/dtm.html">Data Manager</resp><name>Fabian Cremer</name><name>Marcel Riedel</name><name>Tobias Tenhaef</name></respStmt><funder>Research Center Sanssouci (RECS)</funder></titleStmt><editionStmt><edition>Digital critical commented edition</edition><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/edt.html">Editor</resp><name>Rashid Sascha Pegah</name><name>Yvonne Rehhahn</name><name>Franziska Windt</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/mrk.html">Markup Editor</resp><name>Yvonne Rehhahn</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/trl.html">Translator</resp><name>Günter Berger</name><name>Cornelia Klettke</name><name>Rashid Sascha Pegah</name><name>Franziska Windt</name><name>Cordula Wöbbeking</name></respStmt><respStmt><resp ref="http://id.loc.gov/vocabulary/relators/dtm.html">Data Manager</resp><name>Fabian Cremer</name><name>Marcel Riedel</name><name>Tobias Tenhaef</name></respStmt><funder>Research Center Sanssouci (RECS)</funder></editionStmt><publicationStmt><publisher><orgName role="host">perspectivia.net</orgName><email>redaktion@perspectivia.net</email><address><addrLine>Max Weber Stiftung – Deutsche Geisteswissenschaftliche Institute im
+                        Ausland, Rheinallee 6, D-53173 Bonn</addrLine></address></publisher><availability><licence target="https://creativecommons.org/licenses/by/4.0/"><p>CC-BY 4.0</p></licence></availability><idno type="URLWeb">https://quellen.perspectivia.net/de/wilhelmine/3_src</idno><idno type="URLXML">http://durl.maxweberstiftung.de/quellen/wb/tei/WB-003-1747-11-25-TEI.xml</idno></publicationStmt><sourceDesc><bibl>GStA PK, BPH, Rep. 47 König Friedrich II., Nr. 305, Bd. 6, fol. 19r-19v.</bibl></sourceDesc></fileDesc><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/yreh-coder/Wilhelmine/main/Wilhelmine%20Briefe-001-257-TEI/WB-003-1747-11-25-TEI.xml?place_annotation_20260303103201821",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-03-03T09:32:01.821Z",
+	"dcterms:modified": "2026-03-03T09:32:01.821Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/yreh-coder",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yvonne Rehhahn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/yreh-coder/Wilhelmine/main/Wilhelmine%20Briefe-001-257-TEI/WB-003-1747-11-25-TEI.xml?place_annotation_20260303103201821#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/yreh-coder/Wilhelmine/main/Wilhelmine%20Briefe-001-257-TEI/WB-003-1747-11-25-TEI.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://stable.leafwriter.users.h-da.cloud",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.5.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/yreh-coder/Wilhelmine/main/Wilhelmine%20Briefe-001-257-TEI/WB-003-1747-11-25-TEI.xml?place_annotation_20260303103201821#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://d-nb.info/gnd/4046948-7",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://stable.leafwriter.users.h-da.cloud",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.5.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><endcodingDesc><editorialDecl><p>The letters were transcribed in their original spelling. In order to improve the readability of the texts, editorial additions were made. In some cases, a normalized orthography was inserted and abbreviations resolved. TEi Tags used: addition, correction, deletion, expansion, gap, lb, note, pb, sup, supplied.</p></editorialDecl></endcodingDesc><profileDesc><langUsage><language ident="fra"/></langUsage><correspDesc ref="https://quellen.perspectivia.net/de/wilhelmine/3_src" source="#u67fba5a-e081-4c44-972b-9a123fb8e085"><correspAction type="sent"><persName>Friedrich II., König von Preußen</persName><settlement>Potsdam</settlement><date when="1747-11-25">1747-11-25</date></correspAction><correspAction type="received"><persName>Wilhelmine von Brandenburg-Bayreuth</persName></correspAction></correspDesc></profileDesc></teiHeader><text><body><p>à <placeName key="Potsdam" ref="https://d-nb.info/gnd/4046948-7" cert="high">Potzdam<precision match="@ref" precision="high"/></placeName> ce 25 <sup>de </sup>Nov<expan>[embre]</expan>: 1747</p><p>Ma tres chere Soeur.<lb/><gap>[… ]</gap>La table que Vous avéz la bonté de m´envoyér n´est point arivée. Je Vous en aurois surement fait mes remersimens,<corr>[.]</corr> Les Mauvais chemeins La retarderont Sans doute;<corr>[.]</corr> Chéz nous on resusite,<corr>[.]</corr> Voilà Mad<expan>[ame]</expan>: de Monbail qui revient d´une fievre Maligne par la force de son temperament Sans avoir pris de remedes,<corr>[.]</corr> Sa Virginité arivera toute Moisie au Paradis. Je Vous fais bien des remersiments de ce que Vous avéz eu la bonté de m’envoyér le plan d’Herculanum<corr>[.]</corr> je Vois bien que Notre Jmagination nous porte toujours au dela de la Verité, je m’etois figuré cette Ville bien plus grande et plus belle, et je Crois que les tablaux qu’on y à trouvé ne sont pas Grand Chose. nous Vivons toujours dans le passé ou dans l’avenir et nous n’avons jamais L’esprit de jouïr du present<corr>[.]</corr> Le Nom Des <del>[Les ]</del>Romains nous etourdit et Nous en Jmpose, nous nous persuadons que La race future Sera plus heureux que La presente<corr>[.]</corr> j’aime mieux Le bonsens naturel et bourgois qui croit que Monsieur Le Curé De Sa paroesse est plus eloquent que Ciceron<corr>[,]</corr> que Sa femme a plus d’atrais que la belle Helene, que Sa Vile est plus belle que paris, et que Les Legumes que lui aprete Sa <pb/>Cuisiniere ont un Gout plus fin que toute les friandisses recherchées De Martiales, et du Duc de Nevers.<lb/>Si Vous me trouvé trop Seryeux dans cette Lettre je conte d’etre plus Gai dans un autre, le peti Tomasin Va arivér et il montera tout Les esprits Sur le ton Comique <lb/>je suis avec bien de tendresse et d’estime<corr>[,]</corr></p><p>Ma tres chere Soeur<corr>[,]</corr><lb/>Votre tres fidelle frere et serviteur</p><p>Frederic</p></body></text></TEI>
